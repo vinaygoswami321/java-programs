@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.Math;
    
-   public class Main{
+   public class rotatenumber{
    
    public static void main(String[] args) {
      // write your code here  
@@ -9,6 +9,7 @@ import java.lang.Math;
      int n = sc.nextInt();
      int r=n;
      int k = sc.nextInt();
+     sc.close();
      int len=0;
      int d=0;
      while(n!=0){
